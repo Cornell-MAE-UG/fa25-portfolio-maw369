@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: <Maya Watts> - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,63 +8,55 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [maw369@cornell.edu](mailto:maw369@cornell.edu) | | | **Phone:** +845 366 9088
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+I am an aspiring engineering student with a strong foundation in Robotics Passionate about learning and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Mechanical Engineering*  
+  GPA: 3.2/4.0 | Graduation: 05, 2027
 
-- **[High School Name]**  
+- **[Arlington High School]**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [06, 2023]
 
 ---
 
 #### Skills
 - **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
+- **Programming:** C++, Python, MATLAB, 
 - **Tools:** 3D Printing, Laser Cutting  
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- Collective Embodied Intellligence Lab:  
+  *Work on a double tailed SAW robot  
+  - Created the robot optimized the skin and tested it
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- ITT Goulds Pumps - Intern**  
+  [05, 2025] - [08, 2025]  
+  - CAD Modelling the centrifugal pumps
+  - Hands on testing fo the pumps
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
-
+- Won the ELI research grant for my Collective bodied intelligence lab.
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of NACME, NSBE 
+- Varisty Womens Basketball Team
 
 ---
 
