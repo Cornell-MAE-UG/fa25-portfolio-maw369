@@ -1,9 +1,9 @@
 ---
 layout: default
-title: <Maya Watts> - Curriculum Vitae
+title: <Maya Watts> - Background
 permalink: /cv/
 ---
-## Curriculum Vitae
+## Experiences
 
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
@@ -39,19 +39,20 @@ I am an aspiring engineering student with a strong foundation in Robotics Passio
 - Collective Embodied Intellligence Lab:  
   *Work on a double tailed SAW robot  
   - Created the robot optimized the skin and tested it
+  assets/images/Double-tailed-SAW-robot.png
 
 ---
 
 #### Work Experience
 - ITT Goulds Pumps - Intern**  
-  [05, 2025] - [08, 2025]  
+  Dates : 05, 2025 - 08, 2025 
   - CAD Modelling the centrifugal pumps
   - Hands on testing fo the pumps
 
 ---
 
 #### Achievements & Certifications
-- Won the ELI research grant for my Collective bodied intelligence lab.
+- I won the ELI research grant for my Collective bodied intelligence lab. This allowed us to get funding for the 2025 Spring to do more hands on research nd advancements.
 ---
 
 #### Extracurricular Activities
