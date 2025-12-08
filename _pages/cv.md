@@ -53,6 +53,7 @@ I am an aspiring engineering student with a strong foundation in Robotics Passio
 
 #### Achievements & Certifications
 - I won the ELI research grant for my Collective bodied intelligence lab. This allowed us to get funding for the 2025 Spring to do more hands on research nd advancements.
+
 ---
 
 #### Extracurricular Activities
