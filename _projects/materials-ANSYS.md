@@ -1,14 +1,15 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
+title: Materials Final HW
+description: ANSYS analysis of a torque wrench
+technologies: ANSYS, MATLAB
 image: /assets/images/materials.png
 ---
 
 
 
-\\MATLAB Code: 
+MATLAB Code: 
+___
 %Maya Watts Torque Wrench Design
 %Hand Calculations
 
