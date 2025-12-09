@@ -203,16 +203,18 @@ footer {
 .gallery-container {
     display:flex;
     justify-content:center;
-    gap:20rem;
+    gap:10px;       /* space between cards */
+    padding:10px;   /* optional */
 }
 
 .gallery-item {
-    width:360px !important;
-    margin:0px !important;
+    width:400px !important;
+    flex-shrink:0;
+    text-align:center;
 }
 
 .gallery-item img {
-    width:380px !important;
+    width:360px !important;
     height:260px !important;
     object-fit:cover !important;
     border-radius:8px;
