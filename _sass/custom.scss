@@ -200,21 +200,10 @@ footer {
   transform: translateX(-4px);
 }
 
-.projects-grid .project-card img {
+.gallery-item img {
     width: 100%;
-    max-width: 450px;
     height: auto;
-    max-height: none;
-}
-.projects-grid .project-card img {
+    max-width: 6cqb;
+    object-fit: contain !important;
     border: 3px solid green;
-}
-
-.inline-image-l {
-  display: block !important;
-  float: none !important;
-  margin: 1.5rem auto !important;
-  text-align: center;
-}
-
-
+  }
