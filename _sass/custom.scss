@@ -208,15 +208,16 @@ footer {
 }
 
 .gallery-item {
-    width:340px !important;
+    width:320px !important;
+    overflow: hidden;
     flex-shrink:0;
     text-align:center;
     margin:0 auto;  
 }
 
 .gallery-item img {
-    width:340px !important;
-    height:220px !important;
+    width:320px !important;
+    height:200px !important;
     object-fit:cover !important;
     object-position:center !important;
     border-radius:8px;
