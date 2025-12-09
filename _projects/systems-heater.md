@@ -4,6 +4,7 @@ title: 3260 Systems Final Hw
 description: Analyzing a heater system
 technologies: MATLAB, Simulink
 image: /assets/images/Systems.png
+image_style: "width: 450px"
 ---
 
 For our MAE 3260 final group assignment, we studied how a thermostat regulates temperature inside a home. We built a full closed-loop model that included system dynamics, feedback, a basic PI controller, and disturbance rejection. The idea was to analyze a real-world everyday system, but also apply the concepts of modeling, block diagrams, ODE representation, and control design that we learned during the semester.

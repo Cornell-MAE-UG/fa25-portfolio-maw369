@@ -4,6 +4,7 @@ title: 3270 Materials Final HW
 description: ANSYS analysis of a torque wrench
 technologies: ANSYS, MATLAB
 image: /assets/images/materials-deformation.png
+image_style: "width: 450px"
 ---
 This project develops a digitally-instrumented torque wrench using finite-element analysis to determine strain distribution under load and to identify an optimal strain-gauge placement. Digitally instrumented tools like torque wrenches are widely used in aerospace, automotive, and energy, so accurate strain measurement directly affects safety and performance.
 ANSYS Static Structural was used to model the wrench geometry, apply realistic boundary conditions, and evaluate normal strain, principal stress, and total deformation for a 600 in-lbf input torque.

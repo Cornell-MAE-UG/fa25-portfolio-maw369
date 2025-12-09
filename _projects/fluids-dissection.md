@@ -4,6 +4,7 @@ title: 3230 Fluids Dissection- 4 Stroke V Twin Engine
 description: Fluid Dissection
 technologies: Power tools
 image: /assets/images/4Stroke-Twin-Engine.png
+image_style: "width: 450px"
 ---
 
 As part of a hands-on fluid mechanics class, MAE 3230, we did a group project to dissect fluid machines. My team performed a complete dissection of a 4-stroke V-twin engine to gain a deeper mechanical understanding of how its internal components interact to convert chemical energy into mechanical output. Using power tools and proper teardown procedures, we systematically disassembled the engine—removing the camshaft, pistons, crankcase, valves, timing components, and ancillary systems.
