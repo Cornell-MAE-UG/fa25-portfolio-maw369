@@ -203,19 +203,21 @@ footer {
 .project-gallery {
   display:flex;
   justify-content:center;
-  gap:80px;  /* space between cards */
+  gap:75px;  /* space between cards */
   padding:10px;
 }
 
 .gallery-item {
-    width:400px !important;
+    width:340px !important;
     flex-shrink:0;
     text-align:center;
+    margin:0 auto;  
 }
 
 .gallery-item img {
-    width:400px !important;
-    height:250px !important;
+    width:340px !important;
+    height:220px !important;
     object-fit:cover !important;
+    object-position:center !important;
     border-radius:8px;
 }
