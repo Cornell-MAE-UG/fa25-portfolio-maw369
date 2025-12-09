@@ -8,3 +8,12 @@ $color_scheme: '{{ site.color_scheme }}';
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Merriweather:wght@400;700&display=swap');
 @import "custom";
 
+.projects-grid .project-card img {
+    width: 100%;
+    max-width:450px;
+    height: auto;
+    max-height: none;
+}
+.projects-grid .project-card img {
+    border: 3px solid red;
+}
