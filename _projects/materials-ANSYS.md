@@ -24,4 +24,4 @@ Skills: FEA, ANSYS Static Structural, strain-gauge instrumentation, stress analy
 ![Photo of Strain gauge location]({{ "/assets/images/materials-strain.png" | relative_url }}){: style="display:block; margin:1.5rem auto; max-width:80%;"}
 *Figure 3 – ANSYS strain gauge location*{:margin:1.5rem auto;"}
 
-[View our full project here](https://docs.google.com/document/d/1r3QO4tW0H9VaC8c4zrUon-J6NAgUSllSU8sCg2zuuzc/edit?usp=sharing)
+[View my full project here](https://docs.google.com/document/d/1r3QO4tW0H9VaC8c4zrUon-J6NAgUSllSU8sCg2zuuzc/edit?usp=sharing)
