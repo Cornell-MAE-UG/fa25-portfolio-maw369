@@ -13,4 +13,4 @@ Throughout the process, we examined the geometry and function of each part, iden
 
 After completing the teardown, we created a detailed video walkthrough summarizing what we learned, highlighting the function of each major component, and reflecting on how fluid dynamics principles apply to internal combustion engines.
 
-[View the breakdown of our dissection here](https://www.youtube.com/watch?v=Uk-hV2jCi5U)
+[View our dissection video here](https://www.youtube.com/watch?v=Uk-hV2jCi5U)
