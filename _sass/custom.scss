@@ -201,9 +201,10 @@ footer {
 }
 
 .gallery-item img {
-    width: 350px !important;
+    width: 400px !important;
     height: 260px !important;
     object-fit: cover !important;
+    object-position: center !important;
     border-radius: 8px;
     margin: 1rem;
     border: 2px solid green;
