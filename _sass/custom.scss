@@ -207,6 +207,13 @@ footer {
     padding:15px;   /* optional */
 }
 
+.project-gallery {
+  display:flex;
+  justify-content:center;
+  gap:100px;  /* space between cards */
+  padding:15px;
+}
+
 .gallery-item {
     width:400px !important;
     flex-shrink:0;
