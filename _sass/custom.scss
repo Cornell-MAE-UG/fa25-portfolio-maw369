@@ -203,16 +203,16 @@ footer {
 .gallery-container {
     display:flex;
     justify-content:center;
-    gap:10rem;
+    gap:20rem;
 }
 
 .gallery-item {
     width:360px !important;
-    margin:0 !important;
+    margin:0px !important;
 }
 
 .gallery-item img {
-    width:100% !important;
+    width:330px !important;
     height:260px !important;
     object-fit:cover !important;
     border-radius:8px;
