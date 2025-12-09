@@ -208,8 +208,7 @@ footer {
 }
 
 .gallery-item {
-    width:320px !important;
-    height:180px !important;
+    width:340px !important;
     overflow: hidden;
     flex-shrink:0;
     text-align:center;
@@ -217,7 +216,7 @@ footer {
 }
 
 .gallery-item img {
-    width:320px !important;
+    width:340px !important;
     height:180px !important;
     object-fit:cover !important;
     object-position:center !important;
