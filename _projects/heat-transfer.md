@@ -2,7 +2,7 @@
 layout: project
 title: Heat Transfer 
 description: Most Valuble Homework 
-image: /assets/images/4Stroke-Twin-Engine.png
+image: /assets/images/water_heater.png
 image_style: "width: 450px"
 ---
 
